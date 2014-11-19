@@ -1,0 +1,61 @@
+/* ===================
+   Mixins
+   =================== */
+
+
+
+/* ===================
+   Breakpoints
+   =================== */
+// this is just for calculations:
+$smartphone: 320px;
+
+// these are the breakpoints in use:
+$tablet: 769px; 	
+$desktop: 1024px;
+
+
+/* ===================
+   Colors
+   =================== */
+
+$black: #000000;
+$white: #ffffff;
+$fontColor: #4b4b4b;
+$magenta: #e20074;
+$hoverMagenta: #ba0060;
+$lightGray: #d0d0d0;
+$hrLightGray: #ededed;
+$grayFieldBorder: #9aa0a3;
+$blue: #0090c4;
+$green: #6bb324;
+$quotationGray: #6c6c6c;
+$quotationGrayTransparent: rgba(108,108,108,0.5);
+$productBlue: #dce5e9;
+$overlayBlack: rgba(0,0,0,0.7);
+$white90: rgba(255,255,255,0.9);
+
+$lightblue: #dce5e9;
+$lightyellow: #f4efdf;
+$lightgreen: #e5ece0;
+$middleGray: #a4a4a4;
+
+/* ===================
+   Fonts
+   =================== */
+
+
+$font12: 0.75em;
+$font14: 0.875em;
+$font16: 1em;
+$font19: 1.2em;
+$font20: 1.25em;
+$font23: 1.375em;
+$font24: 1.5em;
+$font25: 1.563em;
+$font30: 1.875em;
+$font32: 2em;
+$font40: 2.5em;
+$font57: 3.5625em;
+$font86: 2.85em;
+$font50: 3.125em;

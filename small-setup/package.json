@@ -1,0 +1,28 @@
+{
+  "name": "javascriptSetup",
+  "version": "0.0.0",
+  "description": "Frontend setup",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "HelloPlugin GmbH",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-cssmin": "~0.4.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-uglify": "~0.5.1",
+    "jquery":"~2.1.0",
+    "grunt-modernizr": "~0.5.2"
+  }
+}
